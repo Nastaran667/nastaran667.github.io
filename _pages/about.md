@@ -61,27 +61,13 @@ function toggle_visibility(id) {
 
 <a href="/teaching"  class='header-color'>Teaching</a>
 ----
-### Chalmers:
+### Shahid Beheshti University:
 <ul class='twocol' markdown='1'>
-<li>Language-Based Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
-<li>Finite Automata and Formal Languages</li>
-<li>Programming Language Technology (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+<li>Signal and Systems (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+<li>Electrical Circuits</li>
+<li>Advanced Electrical Circuits (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 </ul>
 
-### Tehran Polytechnic: 
-<ul class='twocol' markdown='1'>
-<li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Computer Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Discrete Mathematics</li>
-<li> Design of Programming Languages</li>
-<li> Data Structures</li>
-<li> Principles of Compiler Design</li>
-<li> Computer Networks II</li>
-<li> Information Storage and Retrieval</li>
-<li> Software Engineering I</li>
-<li> Computer Architecture</li>
-</ul>
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
