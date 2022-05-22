@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 <div id="2">
 <li> <b>A Novel QRS Detection Based on the Adaptive Improved Permutation Entropy</b>, <em>Licentiate thesis</em>, 2021 [<a href="/papers/#">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>] [<a href="https://youtu.be/0Mdj-sNxqXU">video</a>]
-  <br>Supervisors: Dr. Farah Torkamani Azar, Dr. Hung Cao, Dr. Tadesse Ghirmai
+  <br>Supervisors: Dr. Farah Torkamani Azar, Dr. Hung Cao and Dr. Tadesse Ghirmai
 <div class='button' data-content="toggle-text"><a href="#2">abstract</a></div>
 <div class='abstract'>
 Modular programming is a key concept in software development where the program consists of code modules that are designed and implemented independently. This approach accelerates the development process and enhances scalability of the final product. Modules, however, are often written by third parties, aggravating security concerns such as stealing confidential information, tampering with sensitive data, and executing malicious code.
