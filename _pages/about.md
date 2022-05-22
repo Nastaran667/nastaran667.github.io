@@ -15,9 +15,7 @@ redirect_from:
 </style>
 
 **Hi!** This is Nastaran, a MSc student in Electrical Engineering at SBU. My major field of study is signal processing and I am currently focusing on biomedical signal processing under the supervision of [Dr. Farah Torkamani Azar](https://ece.sbu.ac.ir/~f-torkamani) at [SBU](https://www.sbu.ac.ir/) in Iran, started in August 2019. Also, I am about to publish my first article in biomedical signal processing undersupervision of [Dr. Hung Cao](https://engineering.uci.edu/users/hung-cao) and [Dr. Tadesse Ghirmai](https://www.uwb.edu/engineering-math/faculty/electrical-engineering/tghirmai).
-
-at [SBU](https://www.sbu.ac.ir/)
-Prior to that, I lived at [Tehran&nbsp;SBU (AUT)](https://www.sbu.ac.ir/) for 4 years (BSc in Electrical Engineering), supervised by [Dr. Farah Torkamani Azar](https://ece.sbu.ac.ir/~f-torkamani). Since then, I have been pursuing my passion for:
+I am currently pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Biomedical Signal Processing</li>
 <li> Signals and Systems</li>
