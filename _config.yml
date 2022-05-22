@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad M. Ahmadpanah"
+title                    : "Nastaran Mansourian"
 title_separator          : "-"
-name                     : &name "Mohammad M. Ahmadpanah"
-description              : &description "The Personal Website of Mohammad M. Ahmadpanah | صفحه شخصی محمد احمدپناه"
+name                     : &name "Nastaran Mansourian"
+description              : &description "The Personal Website of Nastaran Mansourian | صفحه شخصی نسترن منصوریان"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "smahmadpanah/smahmadpanah.github.io"
+repository               : "Nastaran667/nastaran667.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad M. Ahmadpanah"
+  name             : "Nastaran Mansourian"
   avatar           : "profile.png"
-  bio              : "PhD Student in Information&nbsp;Security<br><a href='https://www.chalmers.se/en'><img src='/images/chalmers.png'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
+  bio              : "MSc Student in Electrical Engineering<br><a href='https://www.chalmers.se/en'><img src='/images/beheshti.jpg'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
   location         : "https://goo.gl/maps/ZxJrHZxG96hMjhjS8"
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
