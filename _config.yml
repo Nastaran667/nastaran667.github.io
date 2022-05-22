@@ -82,40 +82,40 @@ analytics:
 author:
   name             : "Nastaran Mansourian"
   avatar           : "profile.png"
-  bio              : "MSc Student in Electrical Engineering<br><a href='https://www.chalmers.se/en'><img src='/images/beheshti.jpg'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
-  location         : "https://goo.gl/maps/ZxJrHZxG96hMjhjS8"
+  bio              : "MSc Student in Electrical Engineering<br><a href='https://www.sbu.ac.ir/'><img src='/images/beheshti.jpg'></a>&nbsp;&nbsp;"
+  location         : "https://goo.gl/maps/6YR6VQYGZbqUHcLs5"
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=MvbjHQsAAAAJ&hl=en"
-  gmail            : "smahmadpanah@gmail.com"
+  googlescholar    : "https://scholar.google.com/"
+  gmail            : "n.mansourian76@gmail.com"
   email            : "mohammad.ahmadpanah@chalmers.se"
   #email           : "smahmadpanah@aut.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   #bitbucket       : 
-  skype            : "smahmadpanah"
-  phone            : "+46317721114"
-  telegram         : "smahmadpanah"
-  facebook         : "smahmadpanah"
+  skype            :
+  phone            : 
+  telegram         : 
+  facebook         : 
   foursquare       :
-  github           : "smahmadpanah"
+  github           : "Nastaran667"
   google_plus      : 
   keybase          :
-  instagram        : "smahmadpanah"
+  instagram        : "nastaran.mansourian"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "smahmadpanah"
+  linkedin         : "nastaran-mansourian-83105221a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       : "smahmadpanah"
+  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "smahmadpanah"
-  spotify          : "smahmadpanah"
+  twitter          : 
+  spotify          :
   weibo            :
   xing             :
-  youtube          : #"Vv0cixelYXcPL1WJAHo_uQ"
+  youtube          :
   wikipedia        :
 
 
