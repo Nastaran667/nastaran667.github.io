@@ -42,19 +42,6 @@ function toggle_visibility(id) {
 ----
 0. **A Novel QRS Detection Based on the Adaptive Improved Permutation Entropy**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 <br>Supervisors: Dr. Farah Torkamani Azar, Dr. Hung Cao and Dr. Tadesse Ghirmai
-0. **Securing Node-RED Applications**, *Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21* [[pdf](/papers/joshua21.pdf)]
-<br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
-0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)]
-<br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
-0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)]
-<br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
-0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
-<br>Supervisor: Mehran S. Fallah
-0. **Dynamic Enforcement of Security Hyperproperties: A Survey**, *Technical report*, 2016
-[[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Seminar/Dynamic%20Enforcement%20of%20Security%20Hyperproperties-SeminarReport.pdf)]
-<br>Supervisor: Mehran S. Fallah
-0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor's thesis*, 2015 [[pdf](https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf)]
-<br>Supervisor: Mehran S. Fallah
 {: reversed="reversed"}
 
 
