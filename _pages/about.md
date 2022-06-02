@@ -14,13 +14,21 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-**Hi!** This is Nastaran, a MSc student in Electrical Engineering at SBU. My major field of study is signal processing and I am currently focusing on biomedical signal processing under the supervision of [Dr. Farah Torkamani Azar](https://ece.sbu.ac.ir/~f-torkamani) at [SBU](https://www.sbu.ac.ir/) in Iran, started in August 2019. Also, I am about to publish my first article in biomedical signal processing undersupervision of [Dr. Hung Cao](https://engineering.uci.edu/users/hung-cao) and [Dr. Tadesse Ghirmai](https://www.uwb.edu/engineering-math/faculty/electrical-engineering/tghirmai).
-I am currently pursuing my passion for:
+**Hi!** This is Nastaran, an extreme enthusiast of signal processing who is currently concentrates on bio-medical signal processing. 
+
+I am about to graduate from M.Sc. in electrical engineering and defend my M.Sc. thesis at Shahid Beheshti University (SBU). 
+I passed my M.Sc. journey under supervision of [Dr. Farah Torkamani Azar](https://ece.sbu.ac.ir/~f-torkamani). Meanwhile, 
+I had a tight experience of researching with [Dr. Hung Cao](https://engineering.uci.edu/users/hung-cao) and
+[Dr. Tadesse Ghirmai](https://www.uwb.edu/engineering-math/faculty/electrical-engineering/tghirmai) in biomedical signal processing.
+Prior to M.Sc. I had a 4-year B.Sc. at [SBU](https://www.sbu.ac.ir/) in electrical engineering, ended at August 2019.
+Since then, I have been pursuing my passion for:
+
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Biomedical Signal Processing</li>
 <li> Signals and Systems</li>
 <li> Signal Processing</li>
-<li> Signal Analyzing</li>
+<li> Image Processing</li>
+<li> Neuroscience</li>
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
