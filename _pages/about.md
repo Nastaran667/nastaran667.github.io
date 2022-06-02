@@ -3,84 +3,128 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- /about/
+- /about.html
 ---
 
 <style>
-.farsi{ font-family:PERSWEB; font-weight: bold; font-size:11pt;}
-.header-color {color:#0f2b46;}
-.twocol{ columns: 2}
+    .farsi {
+        font-family: PERSWEB;
+        font-weight: bold;
+        font-size: 11pt;
+    }
+
+    .header-color {
+        color: #0f2b46;
+    }
+
+    .twocol {
+        columns: 2
+    }
 </style>
 
-**Hi!** This is Nastaran, an extreme enthusiast of signal processing who is currently concentrates on non-invasive biomedical signal processing and neuroscience . 
-I am about to graduate from M.Sc. in electrical engineering and defend my M.Sc. thesis at Shahid Beheshti University (SBU). 
-I passed my M.Sc. journey under supervision of [Dr. Farah Torkamani Azar](https://ece.sbu.ac.ir/~f-torkamani). Meanwhile, 
+**Hi!** This is Nastaran<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, an extreme
+enthusiast of
+signal processing who is currently concentrates on non-invasive biomedical signal processing and neuroscience.
+I am about to graduate from M.Sc. in electrical engineering and defend my M.Sc. thesis at Shahid Beheshti University
+(SBU).
+I passed my M.Sc. journey under supervision of [Dr. Farah Torkamani Azar](https://ece.sbu.ac.ir/~f-torkamani).
+Meanwhile,
 I had a tight experience of researching with [Dr. Hung Cao](https://engineering.uci.edu/users/hung-cao) and
-[Dr. Tadesse Ghirmai](https://www.uwb.edu/engineering-math/faculty/electrical-engineering/tghirmai) in bio-medical signal processing.
-Prior to M.Sc., I had a 4-year B.Sc. in electrical engineering at [SBU](https://www.sbu.ac.ir/), ended at September 2019.
+[Dr. Tadesse Ghirmai](https://www.uwb.edu/engineering-math/faculty/electrical-engineering/tghirmai) in bio-medical
+signal processing.
+Prior to M.Sc., I had a 4-year B.Sc. in electrical engineering at [SBU](https://www.sbu.ac.ir/), ended at September
+2019.
 Since then, I have been pursuing my passion for:
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
-<li> Biomedical Signal Processing</li>
-<li> Signals and Systems</li>
-<li> Signal Processing</li>
-<li> Image Processing</li>
-<li> Neuroscience</li>
+    <li> Biomedical Signal Processing</li>
+    <li> Signals and Systems</li>
+    <li> Signal Processing</li>
+    <li> Image Processing</li>
+    <li> Neuroscience</li>
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
-my full name is <i>Nastaran Mansourian</i> (in Persian: <span class='farsi'>نسترن منصوریان</span>), and here is my voice pronouncing my name:  
-<span><audio id="player" src="files/my-name.wav"></audio>
-<img src="/images/speaker.png" style="width:20px; cursor:pointer;" onclick="document.getElementById('player').play()"></span></sup></p>
+        my full name is <i>Nastaran Mansourian</i> (in Persian: <span class='farsi'>نسترن منصوریان</span>), and here is
+        my voice pronouncing my name:
+        <span><audio id="player" src="files/name.ogg"></audio>
+            <img src="/images/speaker.png" style="width:20px; cursor:pointer;"
+                onclick="document.getElementById('player').play()"></span></sup></p>
 
 <script>
-function toggle_visibility(id) {
-       var e = document.getElementById(id);
-       if(e.style.display == 'block')
-          e.style.display = 'none';
-       else
-          e.style.display = 'block';
+    function toggle_visibility(id) {
+        var e = document.getElementById(id);
+        if (e.style.display == 'block')
+            e.style.display = 'none';
+        else
+            e.style.display = 'block';
     }
 </script>
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **A Novel QRS Detection Based on the Adaptive Improved Permutation Entropy**, 2021 [[pdf](papers/#)]
+0. **A Novel QRS Detection Based on the Adaptive Improved Permutation Entropy**, 2021 [[pdf](papers/qrs-detection.pdf)]
 <br>Supervisors: Dr. Farah Torkamani Azar, Dr. Hung Cao and Dr. Tadesse Ghirmai
 {: reversed="reversed"}
 
 
 
-<a href="/teaching"  class='header-color'>Teaching</a>
+<a href="/teaching" class='header-color'>Teaching</a>
 ----
-### Shahid Beheshti University:
-<ul class='twocol' markdown='1'>
-<li>Signal and Systems (<i style='font-size: 0.8em;'>Graduate</i>)</li>
-<li>Electrical Circuits</li>
-<li>Advanced Electrical Circuits (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+### Teaching Assistant, Shahid Beheshti University:
+<ul markdown='1'>
+    <li>Signal and Systems (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
+    <li>Telecommunications (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
 </ul>
 
 
-<a href="/honors" class='header-color'>Honors and Activities</a>
+<a href="/education" class='header-color'>Education</a>
 ----
-- External Reviewer of the conference flagships <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
-- Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021 and 2022
-- Fellow of Student Activities committee (2022-2025) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020
-- Member of <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec Project</a> and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
-- The 2nd place among PhD students of the department, Tehran Polytechnic, 2018 and 2019
-- The Best Teaching Assistant and Lab Instructor of the department, Tehran Polytechnic, 2016, 2017 and 2019
-- Scientific Talent by the National Elite Foundation of Iran, 2018
-- Top 3% among Course Responsibles, Tehran Polytechnic, Spring 2018
-- The 1st place among Master's students in Information Security, 2016 and 2017
-- Recipient of the Outstanding Graduate Student Scholarship, Tehran Polytechnic, 2016
-- Direct Admission for Master and PhD studies, Tehran Polytechnic, 2015 and 2017
-- The Youngest Course Responsible (at age 22), Lab Instructor (at age 20) and
-Teaching Assistant (at age 16), Tehran Polytechnic 
-- Member of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Tehran Polytechnic, 2015 - 2019
-- Member of the university team for the National Scientific Olympiad in Computer Engineering, Tehran Polytechnic, 2014
-- Skipped Three grades of Elementary School as an Exceptional Talent, 2002
+### Master's degree in Electrical Engineering, Shahid Beheshti University (SBU) (<i style='font-size: 0.8em;'>2019 -
+    2022</i>):
+<ul markdown='1'>
+    <li>GPA: 3.42 (Out of 4)</li>
+    <li>Field of Study: Non-invasive biomedical signal processing and neuroscience</li>
+    <li>Thesis title: Fetal ECG Extraction from Abdominal ECG</li>
+    <li>Supervisor: Farah Torkamani Azar</li>
+</ul>
+
+### Bachelor's degree in Electrical Engineering, Shahid Beheshti University (SBU) (<i style='font-size: 0.8em;'>2015 -
+    2019</i>):
+<ul markdown='1'>
+    <li>GPA: 3.73 (Out of 4)</li>
+    <li>Thesis Title: Image Compression using Prediction Method</li>
+    <li>Supervisor: Farah Torkamani Azar</li>
+</ul>
 
 
+<a href="/honors" class='header-color'>Honors and Awards</a>
+----
+- Full scholarship (tuition waiver) of M.Sc. at Shahid Beheshti University (SBU) - 2019
+- Straight Admission for M.Sc. at Shahid Beheshti University (SBU) - 2019
+- Full scholarship (tuition waiver) of B.Sc. at Shahid Beheshti University (SBU) - 2015
+- Among top 1% in Iranian universities nationwide entrance exam for bachelor studies - 2015
 
+
+<a href="/experiences" class='header-color'>Work Experiences</a>
+----
+### Member of Display Labratory (<i style='font-size: 0.8em;'>2019 - 2022</i>):
+<ul markdown='1'>
+<li>Supervisor: Farah Torkamani Azar</li>
+<li>Workshops:</li>
+<li>    Introduction to Researching and Writing Papers</li>
+<li>    Practical Electrical Engineering Tools, Topics, and Techniques</li>
+<li>Research Subjects:</li>
+<li>    Signal Processing</li>
+<li>    Image Processing</li>
+
+</ul>
+
+### Monitoring & NOC Engineer, XICOMM (<i style='font-size: 0.8em;'>Jan 2019 - Mar 2020</i>):
+<ul markdown='1'>
+<li>Network Monitoring</li>
+<li>VoIP routers monitoring</li>
+<li>VoIP route testing</li>
+</ul>
