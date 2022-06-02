@@ -125,12 +125,16 @@ Since then, I have been pursuing my passion for:
 ### Member of Display Labratory (<i style='font-size: 0.8em;'>2019 - 2022</i>):
 <ul markdown='1'>
 <li>Supervisor: Farah Torkamani Azar</li>
-<li>Workshops:</li>
-<li>    Introduction to Researching and Writing Papers</li>
-<li>    Practical Electrical Engineering Tools, Topics, and Techniques</li>
 <li>Research Subjects:</li>
-<li>    Signal Processing</li>
-<li>    Image Processing</li>
+    <ul>
+        <li>Signal Processing</li>
+        <li>Image Processing</li>
+    </ul> 
+<li>Workshops:</li>
+<ul>
+    <li>Introduction to Researching and Writing Papers</li>
+    <li>Practical Electrical Engineering Tools, Topics, and Techniques</li>
+</ul> 
 </ul>
 
 ### Monitoring & NOC Engineer, XICOMM (<i style='font-size: 0.8em;'>Jan 2019 - Mar 2020</i>):
