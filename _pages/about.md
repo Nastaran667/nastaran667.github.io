@@ -14,13 +14,12 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-**Hi!** This is Nastaran, an extreme enthusiast of signal processing who is currently concentrates on bio-medical signal processing. 
-
+**Hi!** This is Nastaran, an extreme enthusiast of signal processing who is currently concentrates on non-invasive biomedical signal processing and neuroscience . 
 I am about to graduate from M.Sc. in electrical engineering and defend my M.Sc. thesis at Shahid Beheshti University (SBU). 
 I passed my M.Sc. journey under supervision of [Dr. Farah Torkamani Azar](https://ece.sbu.ac.ir/~f-torkamani). Meanwhile, 
 I had a tight experience of researching with [Dr. Hung Cao](https://engineering.uci.edu/users/hung-cao) and
-[Dr. Tadesse Ghirmai](https://www.uwb.edu/engineering-math/faculty/electrical-engineering/tghirmai) in biomedical signal processing.
-Prior to M.Sc. I had a 4-year B.Sc. at [SBU](https://www.sbu.ac.ir/) in electrical engineering, ended at August 2019.
+[Dr. Tadesse Ghirmai](https://www.uwb.edu/engineering-math/faculty/electrical-engineering/tghirmai) in bio-medical signal processing.
+Prior to M.Sc., I had a 4-year B.Sc. in electrical engineering at [SBU](https://www.sbu.ac.ir/), ended at September 2019.
 Since then, I have been pursuing my passion for:
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
