@@ -63,6 +63,7 @@ Since then, I have been pursuing my passion for:
     }
 </script>
 
+
 <a href="/publications" class='header-color'>Publications</a>
 ----
 0. **A Novel QRS Detection Based on the Adaptive Improved Permutation Entropy**, 2021 [[pdf](papers/qrs-detection.pdf)]
@@ -70,11 +71,19 @@ Since then, I have been pursuing my passion for:
 {: reversed="reversed"}
 
 
-
 <a href="/teaching" class='header-color'>Teaching</a>
 ----
 ### Teaching Assistant, Shahid Beheshti University:
 <ul markdown='1'>
+    <li>Advanced Communication Theory (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+    <li>Stochastics Process (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+    <li>Communication Networks (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+    <li>Speech Processing (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+    <li>Advanced Digital Signal Processing (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+    <li>Channel Coding (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+    <li>Image Processing (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+    <li>Cryptography (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+
     <li>Signal and Systems (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
     <li>Telecommunications (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
 </ul>
