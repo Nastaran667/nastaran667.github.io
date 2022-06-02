@@ -66,7 +66,7 @@ Since then, I have been pursuing my passion for:
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **A Novel QRS Detection Based on the Adaptive Improved Permutation Entropy**, 2021 [[pdf](papers/qrs-detection.pdf)]
+0. **A Novel QRS Detection Based on the Adaptive Improved Permutation Entropy**, 2022 [[pdf](papers/qrs-detection.pdf)]
 <br>Supervisors: Dr. Farah Torkamani Azar, Dr. Hung Cao and Dr. Tadesse Ghirmai
 {: reversed="reversed"}
 
