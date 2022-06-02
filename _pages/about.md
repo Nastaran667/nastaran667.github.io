@@ -84,8 +84,13 @@ Since then, I have been pursuing my passion for:
     <li>Image Processing (<i style='font-size: 0.8em;'>Graduate</i>)</li>
     <li>Cryptography (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 
-    <li>Signal and Systems (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
-    <li>Telecommunications (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
+    <li>Signals and Systems (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
+    <li>Digital Communications (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
+    <li>Digital Signal Processing (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
+    <li>Microwave (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
+    <li>Principles of Communication Systems (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
+    <li>Engineering Mathematics (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
+    <li>Engineering Probability & Statistics (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
 </ul>
 
 
@@ -128,7 +133,6 @@ Since then, I have been pursuing my passion for:
 <li>Research Subjects:</li>
 <li>    Signal Processing</li>
 <li>    Image Processing</li>
-
 </ul>
 
 ### Monitoring & NOC Engineer, XICOMM (<i style='font-size: 0.8em;'>Jan 2019 - Mar 2020</i>):
@@ -136,4 +140,11 @@ Since then, I have been pursuing my passion for:
 <li>Network Monitoring</li>
 <li>VoIP routers monitoring</li>
 <li>VoIP route testing</li>
+</ul>
+
+###  Network Engineer Intern, Telecommunication Company of Iran (TCI) (<i style='font-size: 0.8em;'>Jul 2018 - Sep 2018</i>):
+<ul markdown='1'>
+<li>Network Monitoring</li>
+<li>Fully practical internship in field of computer networks and telecommunication</li>
+<li>Design and implementation of telecommunication plans</li>
 </ul>
