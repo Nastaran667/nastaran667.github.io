@@ -96,8 +96,7 @@ Since then, I have been pursuing my passion for:
 
 <a href="/education" class='header-color'>Education</a>
 ----
-### Master's degree in Electrical Engineering, Shahid Beheshti University (SBU) (<i style='font-size: 0.8em;'>2019 -
-    2022</i>):
+### Master's degree in Electrical Engineering, Shahid Beheshti University (SBU) (<i style='font-size: 0.8em;'>2019 - 2022</i>):
 <ul markdown='1'>
     <li>GPA: 3.42 (Out of 4)</li>
     <li>Field of Study: Non-invasive biomedical signal processing and neuroscience</li>
@@ -105,8 +104,7 @@ Since then, I have been pursuing my passion for:
     <li>Supervisor: Farah Torkamani Azar</li>
 </ul>
 
-### Bachelor's degree in Electrical Engineering, Shahid Beheshti University (SBU) (<i style='font-size: 0.8em;'>2015 -
-    2019</i>):
+### Bachelor's degree in Electrical Engineering, Shahid Beheshti University (SBU) (<i style='font-size: 0.8em;'>2015 - 2019</i>):
 <ul markdown='1'>
     <li>GPA: 3.73 (Out of 4)</li>
     <li>Thesis Title: Image Compression using Prediction Method</li>
